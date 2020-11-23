@@ -9,7 +9,7 @@ http://www.centrofunzionalebasilicata.it/it/pdf/modulo_richiesta_dati_e_avverten
 
 http://www.centrofunzionalebasilicata.it/it/annali1.php
 
-Dal 1988 gli Annalisono informato pdf (non semplici scansioni)
+Dal 1988 gli Annali sono informato pdf (non semplici scansioni)
 
 ## Dati on-line
 
