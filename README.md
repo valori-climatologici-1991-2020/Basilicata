@@ -3,7 +3,15 @@
 Dati per valori climatologici
 
 
-#
+## Annali
+
+http://www.centrofunzionalebasilicata.it/it/pdf/modulo_richiesta_dati_e_avvertenze.pdf
+
+http://www.centrofunzionalebasilicata.it/it/annali1.php
+
+Dal 1988 gli Annalisono informato pdf (non semplici scansioni)
+
+## Dati on-line
 
 Stringa
 
@@ -12,3 +20,7 @@ http://www.centrofunzionalebasilicata.it/it/scaricaDati.php?action=download&id=1
 Si veda il sito web
 
 http://www.centrofunzionalebasilicata.it/it/scaricaDati.php
+
+## Descrizione rete
+
+http://www.protezionecivilebasilicata.it/protcivbascma/files/docs/10/56/01/DOCUMENT_FILE_105601.pdf
