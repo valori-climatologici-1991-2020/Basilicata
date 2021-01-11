@@ -12,10 +12,11 @@ I dati storici sono disponibili alla pagina web:
 
 http://www.centrofunzionalebasilicata.it/it/scaricaDati.php
 
-Ogni stazione e' identificata da un codice stazione a cui corrisponde un codice sensore (ad esempio: codice sensore per `Pioggia Cumulata`,
-per `Temperatura Aria`, etc.). I codici sensori non sono univoci ma variano con la stazione.
+Ogni stazione e' identificata da un codice stazione a cui corrisponde un codice sensore (ad esempio: codice sensore per `Pioggia Cumulata`, per `Temperatura Aria`, etc.). I codici sensori non sono univoci ma variano con la stazione.
 
 Una volta scelto il codice sensore si deve poi scegliere che tipo di elaborazione dati si vuole (ad esempio: temperature minime giornaliere,etc).
+
+**Attenzione: sembra che on-line non siano disponibili i dati per l'anno 2003**
 
 ## Annali
 
