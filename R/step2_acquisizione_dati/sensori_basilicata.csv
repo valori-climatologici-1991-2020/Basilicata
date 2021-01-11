@@ -1,0 +1,687 @@
+codiciSensori;nomiSensori;nomeStaz;codeStaz
+48803;Temperatura Aria;Abriola a Sellata Pierfaone;653100
+48805;Pioggia Cumulata;Abriola a Sellata Pierfaone;653100
+48807;Umidità Relativa;Abriola a Sellata Pierfaone;653100
+51060;Pioggia 1h;Abriola a Sellata Pierfaone;653100
+51061;Pioggia 3h;Abriola a Sellata Pierfaone;653100
+51062;Pioggia 6h;Abriola a Sellata Pierfaone;653100
+51063;Pioggia 12h;Abriola a Sellata Pierfaone;653100
+51064;Pioggia 24h;Abriola a Sellata Pierfaone;653100
+51178;Livello Neve;Abriola a Sellata Pierfaone;653100
+48539;Livello Idrometrico;Agri SS 106;647100
+51127;Livello Idrometrico;Agri a Roccanova;652900
+59581;Pioggia Cumulata;Agri a Roccanova;652900
+59582;Intensità di Pioggia;Agri a Roccanova;652900
+59587;Pioggia 1h;Agri a Roccanova;652900
+59588;Pioggia 3h;Agri a Roccanova;652900
+59589;Pioggia 6h;Agri a Roccanova;652900
+59590;Pioggia 12h;Agri a Roccanova;652900
+59591;Pioggia 24h;Agri a Roccanova;652900
+46168;Livello Idrometrico;Agri a Valle Gannano;639400
+12719;Temperatura Aria;Albano di Lucania;179900
+12720;Pioggia Cumulata;Albano di Lucania;179900
+18573;Radiazione Solare Diretta;Albano di Lucania;179900
+18575;Umidità Relativa;Albano di Lucania;179900
+46430;Pioggia 1h;Albano di Lucania;179900
+46431;Pioggia 3h;Albano di Lucania;179900
+46432;Pioggia 6h;Albano di Lucania;179900
+46433;Pioggia 12h;Albano di Lucania;179900
+46434;Pioggia 24h;Albano di Lucania;179900
+51307;Temperatura Aria;Anzi;699400
+51309;Pioggia Cumulata;Anzi;699400
+51310;Intensità Pioggia;Anzi;699400
+51314;Umidità relativa;Anzi;699400
+53492;Pioggia 1h;Anzi;699400
+53493;Pioggia 3h;Anzi;699400
+53494;Pioggia 6h;Anzi;699400
+53495;Pioggia 12h;Anzi;699400
+53496;Pioggia 24h;Anzi;699400
+39160;Incrementi di Pioggia;Atella;537900
+50998;Pioggia 1h;Atella;537900
+50999;Pioggia 3h;Atella;537900
+51000;Pioggia 6h;Atella;537900
+51001;Pioggia 12h;Atella;537900
+51002;Pioggia 24h;Atella;537900
+57239;Temperatura Aria;Atella;537900
+38525;Pioggia Cumulata;Avigliano;512400
+51033;Pioggia 1h;Avigliano;512400
+51034;Pioggia 3h;Avigliano;512400
+51035;Pioggia 6h;Avigliano;512400
+51036;Pioggia 12h;Avigliano;512400
+51037;Pioggia 24h;Avigliano;512400
+30884;Pioggia Cumulata;Balvano;419800
+30885;Temperatura Aria;Balvano;419800
+30886;Umidità Relativa;Balvano;419800
+46535;Pioggia 1h;Balvano;419800
+46536;Pioggia 3h;Balvano;419800
+46537;Pioggia 6h;Balvano;419800
+46538;Pioggia 12h;Balvano;419800
+46539;Pioggia 24h;Balvano;419800
+16298;Livello Idrometrico;Basento SS 106;240400
+17332;Pioggia Cumulata;Basento freatimetro;215900
+17334;Temperatura Aria;Basento freatimetro;215900
+17335;Umidità Relativa;Basento freatimetro;215900
+46405;Pioggia 1h;Basento freatimetro;215900
+46406;Pioggia 3h;Basento freatimetro;215900
+46407;Pioggia 6h;Basento freatimetro;215900
+46408;Pioggia 12h;Basento freatimetro;215900
+46409;Pioggia 24h;Basento freatimetro;215900
+21725;Pioggia Cumulata;Bella S.Antonio Casalini;272700
+21726;Temperatura Aria;Bella S.Antonio Casalini;272700
+51038;Pioggia 1h;Bella S.Antonio Casalini;272700
+51039;Pioggia 3h;Bella S.Antonio Casalini;272700
+51040;Pioggia 6h;Bella S.Antonio Casalini;272700
+51041;Pioggia 12h;Bella S.Antonio Casalini;272700
+51042;Pioggia 24h;Bella S.Antonio Casalini;272700
+51350;Temperatura Acqua;Boa Marina di Pisticci;661000
+51351;Altezza d'Onda Signif.  - Hm0;Boa Marina di Pisticci;661000
+51352;Hm0 - Altez. d'onda signif. 2;Boa Marina di Pisticci;661000
+51353;Periodo d'Onda Medio - Tz;Boa Marina di Pisticci;661000
+51357;Periodo Onda Significativa Ts;Boa Marina di Pisticci;661000
+51358;Periodo d'Onda Medio - Tz;Boa Marina di Pisticci;661000
+51359;Altezza d'Onda 1/3 - H1/3;Boa Marina di Pisticci;661000
+51360;Periodo di Picco - Tp;Boa Marina di Pisticci;661000
+51361;Direzione Media Propagaz. - Dm;Boa Marina di Pisticci;661000
+51362;Dispersione Direzionale Media;Boa Marina di Pisticci;661000
+51363;Ripidità dell'Onda;Boa Marina di Pisticci;661000
+50151;Livello Idrometrico;Bradano Ponte Colonna;652600
+50154;Pioggia Cumulata;Bradano Ponte Colonna;652600
+50156;Intensità di Pioggia;Bradano Ponte Colonna;652600
+50223;Pioggia 1h;Bradano Ponte Colonna;652600
+50224;Pioggia 3h;Bradano Ponte Colonna;652600
+50225;Pioggia 6h;Bradano Ponte Colonna;652600
+50226;Pioggia 12h;Bradano Ponte Colonna;652600
+50227;Pioggia 24h;Bradano Ponte Colonna;652600
+30449;Temperatura Aria;Bradano SS106;417900
+30450;Livello Idrometrico;Bradano SS106;417900
+59605;Pioggia Cumulata;Bradano SS106;417900
+59606;Intensità di Pioggia;Bradano SS106;417900
+59608;Pioggia 1h;Bradano SS106;417900
+59609;Pioggia 3h;Bradano SS106;417900
+59610;Pioggia 6h;Bradano SS106;417900
+59611;Pioggia 12h;Bradano SS106;417900
+59612;Pioggia 24h;Bradano SS106;417900
+50078;Livello Idrometrico;Bradano Serramarina;652700
+59584;Pioggia Cumulata;Bradano Serramarina;652700
+59585;Intensità di Pioggia;Bradano Serramarina;652700
+59592;Pioggia 1h;Bradano Serramarina;652700
+59593;Pioggia 3h;Bradano Serramarina;652700
+59594;Pioggia 6h;Bradano Serramarina;652700
+59595;Pioggia 12h;Bradano Serramarina;652700
+59596;Pioggia 24h;Bradano Serramarina;652700
+53478;Livello Idrometrico;Bradano a Marinella;741800
+46144;Idrometro Radar Vega;Bradano a S. Lucia;639000
+59597;Pioggia Cumulata;Bradano a S. Lucia;639000
+59598;Intensità di Pioggia;Bradano a S. Lucia;639000
+59600;Pioggia 1h;Bradano a S. Lucia;639000
+59601;Pioggia 3h;Bradano a S. Lucia;639000
+59602;Pioggia 6h;Bradano a S. Lucia;639000
+59603;Pioggia 12h;Bradano a S. Lucia;639000
+59604;Pioggia 24h;Bradano a S. Lucia;639000
+17337;Livello Freatico;Bradano freatimetro;230600
+17338;Temperatura Aria;Bradano freatimetro;230600
+17339;Umidità Relativa;Bradano freatimetro;230600
+17340;Pressione Atmosferica;Bradano freatimetro;230600
+30378;Pioggia Cumulata;Brienza;419900
+30380;Temperatura Aria;Brienza;419900
+30381;Umidità Relativa;Brienza;419900
+46540;Pioggia 1h;Brienza;419900
+46541;Pioggia 3h;Brienza;419900
+46542;Pioggia 6h;Brienza;419900
+46543;Pioggia 12h;Brienza;419900
+46544;Pioggia 24h;Brienza;419900
+12717;Livello Idrometrico;Campomaggiore;179800
+22633;Pioggia Cumulata;Castelsaraceno;331200
+30456;Temperatura Aria;Castelsaraceno;331200
+30457;Radiazione Solare Diretta;Castelsaraceno;331200
+30458;Radiazione Solare Riflessa;Castelsaraceno;331200
+30459;Velocità Vento Vettoriale;Castelsaraceno;331200
+30460;Direzione Vento Vettoriale;Castelsaraceno;331200
+30864;Umidità Relativa;Castelsaraceno;331200
+33346;Velocità Vento Scalare;Castelsaraceno;331200
+33347;Direzione Vento Scalare;Castelsaraceno;331200
+33348;Velocità Vento Raffica;Castelsaraceno;331200
+33349;Direzione Vento Raffica;Castelsaraceno;331200
+46490;Pioggia 1h;Castelsaraceno;331200
+46491;Pioggia 3h;Castelsaraceno;331200
+46492;Pioggia 6h;Castelsaraceno;331200
+46493;Pioggia 12h;Castelsaraceno;331200
+46494;Pioggia 24h;Castelsaraceno;331200
+21496;Pioggia Cumulata;Castrocucco;275600
+21497;Livello Idrometrico;Castrocucco;275600
+46465;Pioggia 1h;Castrocucco;275600
+46466;Pioggia 3h;Castrocucco;275600
+46467;Pioggia 6h;Castrocucco;275600
+46468;Pioggia 12h;Castrocucco;275600
+46469;Pioggia 24h;Castrocucco;275600
+15328;Livello Idrometrico;Cavone SS106;204000
+21848;Pioggia Cumulata;Cavone SS106;204000
+46440;Pioggia 1h;Cavone SS106;204000
+46441;Pioggia 3h;Cavone SS106;204000
+46442;Pioggia 6h;Cavone SS106;204000
+46443;Pioggia 12h;Cavone SS106;204000
+46444;Pioggia 24h;Cavone SS106;204000
+12706;Livello Idrometrico;Craco Peschiera;176900
+21845;Pioggia Cumulata;Craco Peschiera;176900
+46410;Pioggia 1h;Craco Peschiera;176900
+46411;Pioggia 3h;Craco Peschiera;176900
+46412;Pioggia 6h;Craco Peschiera;176900
+46413;Pioggia 12h;Craco Peschiera;176900
+46414;Pioggia 24h;Craco Peschiera;176900
+39122;Incrementi di Pioggia;Diga Rendina;528100
+53600;Pioggia 1h;Diga Rendina;528100
+53601;Pioggia 3h;Diga Rendina;528100
+53602;Pioggia 6h;Diga Rendina;528100
+53603;Pioggia 12h;Diga Rendina;528100
+53604;Pioggia 24h;Diga Rendina;528100
+57248;Temperatura Aria;Diga Rendina;528100
+21490;Pioggia Cumulata;Episcopia-Pizzutello;275500
+21491;Livello Idrometrico;Episcopia-Pizzutello;275500
+21492;Temperatura Aria;Episcopia-Pizzutello;275500
+46460;Pioggia 1h;Episcopia-Pizzutello;275500
+46461;Pioggia 3h;Episcopia-Pizzutello;275500
+46462;Pioggia 6h;Episcopia-Pizzutello;275500
+46463;Pioggia 12h;Episcopia-Pizzutello;275500
+46464;Pioggia 24h;Episcopia-Pizzutello;275500
+52975;Livello Idrometrico;F.Melandro S.Angelo Le Fratte;698800
+52976;Temperatura Aria;F.Melandro S.Angelo Le Fratte;698800
+52977;Umidità relativa;F.Melandro S.Angelo Le Fratte;698800
+52982;Intensità Pioggia;F.Melandro S.Angelo Le Fratte;698800
+52983;Pioggia Cumulata;F.Melandro S.Angelo Le Fratte;698800
+53502;Pioggia 1h;F.Melandro S.Angelo Le Fratte;698800
+53503;Pioggia 3h;F.Melandro S.Angelo Le Fratte;698800
+53504;Pioggia 6h;F.Melandro S.Angelo Le Fratte;698800
+53505;Pioggia 12h;F.Melandro S.Angelo Le Fratte;698800
+53506;Pioggia 24h;F.Melandro S.Angelo Le Fratte;698800
+12712;Temperatura Aria;Ferrandina SP;177100
+12713;Pioggia Cumulata;Ferrandina SP;177100
+46420;Pioggia 1h;Ferrandina SP;177100
+46421;Pioggia 3h;Ferrandina SP;177100
+46422;Pioggia 6h;Ferrandina SP;177100
+46423;Pioggia 12h;Ferrandina SP;177100
+46424;Pioggia 24h;Ferrandina SP;177100
+39200;Livello Idrometrico;Fiume Ofanto a Monteverde;531300
+39203;Incrementi di Pioggia;Forenza;531500
+39204;Temperatura Aria;Forenza;531500
+52320;Pioggia 1h;Forenza;531500
+52321;Pioggia 3h;Forenza;531500
+52322;Pioggia 6h;Forenza;531500
+52323;Pioggia 12h;Forenza;531500
+52324;Pioggia 24h;Forenza;531500
+39208;Incrementi di Pioggia;Ginosa;531700
+39209;Temperatura Aria;Ginosa;531700
+44235;Umidità Relativa;Ginosa;531700
+39140;Incrementi di Pioggia;Ginosa Marina;529000
+39141;Temperatura Aria;Ginosa Marina;529000
+35818;Pioggia Cumulata;Gorgoglione;482200
+35819;Radiazione Solare Diretta;Gorgoglione;482200
+35820;Umidità Relativa;Gorgoglione;482200
+35821;Temperatura Aria;Gorgoglione;482200
+35822;Direzione Vento Vettoriale;Gorgoglione;482200
+35823;Direzione Vento Scalare;Gorgoglione;482200
+35824;Direzione Vento Raffica;Gorgoglione;482200
+35825;Velocità Vento Vettoriale;Gorgoglione;482200
+35826;Velocità Vento Scalare;Gorgoglione;482200
+35827;Velocità Vento Raffica;Gorgoglione;482200
+35828;Livello Neve;Gorgoglione;482200
+36180;Pressione Atmosferica;Gorgoglione;482200
+52330;Pioggia 1h;Gorgoglione;482200
+52331;Pioggia 3h;Gorgoglione;482200
+52332;Pioggia 6h;Gorgoglione;482200
+52333;Pioggia 12h;Gorgoglione;482200
+52334;Pioggia 24h;Gorgoglione;482200
+16304;Pioggia Cumulata;Grassano SP;240700
+16305;Temperatura Aria;Grassano SP;240700
+30437;Umidità Relativa;Grassano SP;240700
+46445;Pioggia 1h;Grassano SP;240700
+46446;Pioggia 3h;Grassano SP;240700
+46447;Pioggia 6h;Grassano SP;240700
+46448;Pioggia 12h;Grassano SP;240700
+46449;Pioggia 24h;Grassano SP;240700
+16302;Livello Idrometrico;Grassano Scalo;240600
+27500;Radiazione Solare Diretta;Grassano Scalo;240600
+21091;Livello Idrometrico;Grumento-Ponte La Marmora;275400
+22609;Pioggia Cumulata;Grumento-Ponte La Marmora;275400
+46455;Pioggia 1h;Grumento-Ponte La Marmora;275400
+46456;Pioggia 3h;Grumento-Ponte La Marmora;275400
+46457;Pioggia 6h;Grumento-Ponte La Marmora;275400
+46458;Pioggia 12h;Grumento-Ponte La Marmora;275400
+46459;Pioggia 24h;Grumento-Ponte La Marmora;275400
+53035;Intensità Pioggia;Guardia Perticara;699200
+53036;Pioggia Cumulata;Guardia Perticara;699200
+53037;Temperatura Aria;Guardia Perticara;699200
+53038;Umidità relativa;Guardia Perticara;699200
+53512;Pioggia 1h;Guardia Perticara;699200
+53513;Pioggia 3h;Guardia Perticara;699200
+53514;Pioggia 6h;Guardia Perticara;699200
+53515;Pioggia 12h;Guardia Perticara;699200
+53516;Pioggia 24h;Guardia Perticara;699200
+12694;Temperatura Aria;Irsina;55200
+12695;Pioggia Cumulata;Irsina;55200
+15529;Pioggia 1h;Irsina;55200
+15530;Pioggia 3h;Irsina;55200
+15531;Pioggia 6h;Irsina;55200
+15532;Pioggia 12h;Irsina;55200
+15533;Pioggia 24h;Irsina;55200
+12690;Temperatura Aria;Lagonegro;55100
+12691;Pioggia Cumulata;Lagonegro;55100
+12692;Livello Neve;Lagonegro;55100
+15549;Pioggia 1h;Lagonegro;55100
+15550;Pioggia 3h;Lagonegro;55100
+15551;Pioggia 6h;Lagonegro;55100
+15552;Pioggia 12h;Lagonegro;55100
+15553;Pioggia 24h;Lagonegro;55100
+39210;Incrementi di Pioggia;Lagopesole;531800
+39211;Temperatura Aria;Lagopesole;531800
+39212;Umidità Relativa;Lagopesole;531800
+52608;Pioggia 1h;Lagopesole;531800
+52609;Pioggia 3h;Lagopesole;531800
+52610;Pioggia 6h;Lagopesole;531800
+52611;Pioggia 12h;Lagopesole;531800
+52612;Pioggia 24h;Lagopesole;531800
+21501;Pioggia Cumulata;Laino Borgo;276400
+21502;Livello Idrometrico;Laino Borgo;276400
+34266;Pioggia 1h;Laino Borgo;276400
+34267;Pioggia 3h;Laino Borgo;276400
+34268;Pioggia 6h;Laino Borgo;276400
+34269;Pioggia 12h;Laino Borgo;276400
+34270;Pioggia 24h;Laino Borgo;276400
+34271;Pioggia 20 minuti;Laino Borgo;276400
+34272;Pioggia 40 minuti;Laino Borgo;276400
+21719;Pioggia Cumulata;Laurenzana;279200
+46485;Pioggia 1h;Laurenzana;279200
+46486;Pioggia 3h;Laurenzana;279200
+46487;Pioggia 6h;Laurenzana;279200
+46488;Pioggia 12h;Laurenzana;279200
+46489;Pioggia 24h;Laurenzana;279200
+30650;Pioggia Cumulata;Lavello;418100
+30653;Direzione Vento Verticale;Lavello;418100
+30654;Velocita' Vento Ultrasonica;Lavello;418100
+30655;Direzione Vento Ultrasonico;Lavello;418100
+46515;Pioggia 1h;Lavello;418100
+46516;Pioggia 3h;Lavello;418100
+46517;Pioggia 6h;Lavello;418100
+46518;Pioggia 12h;Lavello;418100
+46519;Pioggia 24h;Lavello;418100
+62690;Direzione Vento Scalare;Lavello;418100
+62691;Velocità Vento Scalare;Lavello;418100
+62692;Direzione Vento Raffica;Lavello;418100
+62693;Velocità Vento Raffica;Lavello;418100
+39132;Incrementi di Pioggia;Lavello ETG;528600
+39133;Temperatura Aria;Lavello ETG;528600
+53605;Pioggia 1h;Lavello ETG;528600
+53606;Pioggia 3h;Lavello ETG;528600
+53607;Pioggia 6h;Lavello ETG;528600
+53608;Pioggia 12h;Lavello ETG;528600
+53609;Pioggia 24h;Lavello ETG;528600
+30639;Pioggia Cumulata;Maratea Massa;331900
+30640;Temperatura Aria;Maratea Massa;331900
+30641;Radiazione Solare Diretta;Maratea Massa;331900
+30642;Radiazione Solare Riflessa;Maratea Massa;331900
+30643;Umidità Relativa;Maratea Massa;331900
+51053;Pioggia 1h;Maratea Massa;331900
+51054;Pioggia 3h;Maratea Massa;331900
+51055;Pioggia 6h;Maratea Massa;331900
+51056;Pioggia 12h;Maratea Massa;331900
+51057;Pioggia 24h;Maratea Massa;331900
+59575;Direzione Vento Vettoriale;Maratea Massa;331900
+59576;Velocità Vento Vettoriale;Maratea Massa;331900
+59577;Direzione Vento Scalare;Maratea Massa;331900
+59578;Velocità Vento Scalare;Maratea Massa;331900
+59579;Direzione Vento Raffica;Maratea Massa;331900
+59580;Velocità Vento Raffica;Maratea Massa;331900
+21105;Pioggia Cumulata;Marsico Nuovo;277300
+21106;Temperatura Aria;Marsico Nuovo;277300
+30473;Umidità Relativa;Marsico Nuovo;277300
+46480;Pioggia 1h;Marsico Nuovo;277300
+46481;Pioggia 3h;Marsico Nuovo;277300
+46482;Pioggia 6h;Marsico Nuovo;277300
+46483;Pioggia 12h;Marsico Nuovo;277300
+46484;Pioggia 24h;Marsico Nuovo;277300
+17314;Livello Freatico;Masseria Cardillo;217800
+17315;Radiazione Solare Diretta;Masseria Cardillo;217800
+12687;Temperatura Aria;Matera;55000
+12688;Pioggia Cumulata;Matera;55000
+15559;Pioggia 1h;Matera;55000
+15560;Pioggia 3h;Matera;55000
+15561;Pioggia 6h;Matera;55000
+15562;Pioggia 12h;Matera;55000
+15563;Pioggia 24h;Matera;55000
+17342;Umidità Relativa;Matera;55000
+17344;Pressione Atmosferica;Matera;55000
+39234;Incrementi di Pioggia;Melfi;532500
+39235;Temperatura Aria;Melfi;532500
+51003;Pioggia 1h;Melfi;532500
+51004;Pioggia 3h;Melfi;532500
+51005;Pioggia 6h;Melfi;532500
+51006;Pioggia 12h;Melfi;532500
+51007;Pioggia 24h;Melfi;532500
+39238;Incrementi di Pioggia;Monte Vulture;532700
+51008;Pioggia 1h;Monte Vulture;532700
+51009;Pioggia 3h;Monte Vulture;532700
+51010;Pioggia 6h;Monte Vulture;532700
+51011;Pioggia 12h;Monte Vulture;532700
+51012;Pioggia 24h;Monte Vulture;532700
+39239;Incrementi di Pioggia;Montemilone;532800
+51013;Pioggia 1h;Montemilone;532800
+51014;Pioggia 3h;Montemilone;532800
+51015;Pioggia 6h;Montemilone;532800
+51016;Pioggia 12h;Montemilone;532800
+51017;Pioggia 24h;Montemilone;532800
+57250;Temperatura Aria;Montemilone;532800
+35688;Livello Idrometrico;Montescaglioso;481200
+50986;Pioggia Cumulata;Montescaglioso;481200
+50987;Intensità di Pioggia;Montescaglioso;481200
+50993;Pioggia 1h;Montescaglioso;481200
+50994;Pioggia 3h;Montescaglioso;481200
+50995;Pioggia 6h;Montescaglioso;481200
+50996;Pioggia 12h;Montescaglioso;481200
+50997;Pioggia 24h;Montescaglioso;481200
+39060;Incrementi di Pioggia;Monticchio Bagni;525000
+39061;Temperatura Aria;Monticchio Bagni;525000
+51018;Pioggia 1h;Monticchio Bagni;525000
+51019;Pioggia 3h;Monticchio Bagni;525000
+51020;Pioggia 6h;Monticchio Bagni;525000
+51021;Pioggia 12h;Monticchio Bagni;525000
+51022;Pioggia 24h;Monticchio Bagni;525000
+38540;Pioggia Cumulata;Muro Lucano;513100
+51043;Pioggia 1h;Muro Lucano;513100
+51044;Pioggia 3h;Muro Lucano;513100
+51045;Pioggia 6h;Muro Lucano;513100
+51046;Pioggia 12h;Muro Lucano;513100
+51047;Pioggia 24h;Muro Lucano;513100
+12684;Pioggia Cumulata;Noepoli;54900
+12685;Temperatura Aria;Noepoli;54900
+15632;Pioggia 1h;Noepoli;54900
+15633;Pioggia 3h;Noepoli;54900
+15634;Pioggia 6h;Noepoli;54900
+15635;Pioggia 12h;Noepoli;54900
+15636;Pioggia 24h;Noepoli;54900
+50141;Pioggia Cumulata;Ofanto a Monticchio;652800
+50143;Intensità di Pioggia;Ofanto a Monticchio;652800
+50145;Livello Idrometrico;Ofanto a Monticchio;652800
+50213;Pioggia 1h;Ofanto a Monticchio;652800
+50214;Pioggia 3h;Ofanto a Monticchio;652800
+50215;Pioggia 6h;Ofanto a Monticchio;652800
+50216;Pioggia 12h;Ofanto a Monticchio;652800
+50217;Pioggia 24h;Ofanto a Monticchio;652800
+30382;Pioggia Cumulata;Oppido Lucano;418000
+30384;Temperatura Aria;Oppido Lucano;418000
+30385;Umidità Relativa;Oppido Lucano;418000
+30386;Radiazione Solare Diretta;Oppido Lucano;418000
+30387;Radiazione Solare Riflessa;Oppido Lucano;418000
+30388;Velocità Vento Vettoriale;Oppido Lucano;418000
+30389;Direzione Vento Vettoriale;Oppido Lucano;418000
+33342;Velocità Vento Scalare;Oppido Lucano;418000
+33343;Direzione Vento Scalare;Oppido Lucano;418000
+33344;Velocità Vento Raffica;Oppido Lucano;418000
+33345;Direzione Vento Raffica;Oppido Lucano;418000
+46510;Pioggia 1h;Oppido Lucano;418000
+46511;Pioggia 3h;Oppido Lucano;418000
+46512;Pioggia 6h;Oppido Lucano;418000
+46513;Pioggia 12h;Oppido Lucano;418000
+46514;Pioggia 24h;Oppido Lucano;418000
+53029;Livello Neve;Oppido Lucano;418000
+30360;Pioggia Cumulata;Palazzo S.Gervasio;418300
+30362;Temperatura Aria;Palazzo S.Gervasio;418300
+30363;Umidità Relativa;Palazzo S.Gervasio;418300
+46525;Pioggia 1h;Palazzo S.Gervasio;418300
+46526;Pioggia 3h;Palazzo S.Gervasio;418300
+46527;Pioggia 6h;Palazzo S.Gervasio;418300
+46528;Pioggia 12h;Palazzo S.Gervasio;418300
+46529;Pioggia 24h;Palazzo S.Gervasio;418300
+39305;Incrementi di Pioggia;Pescopagano;538000
+39306;Temperatura Aria;Pescopagano;538000
+52325;Pioggia 1h;Pescopagano;538000
+52326;Pioggia 3h;Pescopagano;538000
+52327;Pioggia 6h;Pescopagano;538000
+52328;Pioggia 12h;Pescopagano;538000
+52329;Pioggia 24h;Pescopagano;538000
+30452;Pioggia Cumulata;Picerno;419700
+30454;Temperatura Aria;Picerno;419700
+30455;Umidità Relativa;Picerno;419700
+46530;Pioggia 1h;Picerno;419700
+46531;Pioggia 3h;Picerno;419700
+46532;Pioggia 6h;Picerno;419700
+46533;Pioggia 12h;Picerno;419700
+46534;Pioggia 24h;Picerno;419700
+65015;Temperatura Aria;Pomarico frana;858200
+65016;Umidità Relativa;Pomarico frana;858200
+65331;Intensità di Pioggia;Pomarico frana;858200
+65332;Pioggia Cumulata;Pomarico frana;858200
+65333;Pioggia 1h;Pomarico frana;858200
+65334;Pioggia 3h;Pomarico frana;858200
+65335;Pioggia 6h;Pomarico frana;858200
+65336;Pioggia 12h;Pomarico frana;858200
+65337;Pioggia 24h;Pomarico frana;858200
+12697;Temperatura Aria;Potenza;83800
+12698;Pioggia Cumulata;Potenza;83800
+15672;Pioggia 1h;Potenza;83800
+15673;Pioggia 3h;Potenza;83800
+15674;Pioggia 6h;Potenza;83800
+15675;Pioggia 12h;Potenza;83800
+15676;Pioggia 24h;Potenza;83800
+17347;Pressione Atmosferica;Potenza;83800
+48437;T Minima Notte;Potenza;83800
+48438;T Massima Giornata;Potenza;83800
+48439;T Minima Giornata;Potenza;83800
+26892;Pioggia Cumulata;Potenza Q.A.;387900
+26893;Livello Idrometrico;Potenza Q.A.;387900
+26899;Temperatura Aria;Potenza Q.A.;387900
+26900;Umidità Relativa;Potenza Q.A.;387900
+27095;Temperatura Acqua;Potenza Q.A.;387900
+27096;Conducibilità;Potenza Q.A.;387900
+27097;Salinità dell'Acqua;Potenza Q.A.;387900
+27098;Solidi Sospesi nell'Acqua;Potenza Q.A.;387900
+27099;Resistività dell'Acqua;Potenza Q.A.;387900
+46500;Pioggia 1h;Potenza Q.A.;387900
+46501;Pioggia 3h;Potenza Q.A.;387900
+46502;Pioggia 6h;Potenza Q.A.;387900
+46503;Pioggia 12h;Potenza Q.A.;387900
+46504;Pioggia 24h;Potenza Q.A.;387900
+39249;Incrementi di Pioggia;Ripacandida;533300
+51023;Pioggia 1h;Ripacandida;533300
+51024;Pioggia 3h;Ripacandida;533300
+51025;Pioggia 6h;Ripacandida;533300
+51026;Pioggia 12h;Ripacandida;533300
+51027;Pioggia 24h;Ripacandida;533300
+57251;Temperatura Aria;Ripacandida;533300
+22683;Pioggia Cumulata;Roccanova;332500
+22684;Temperatura Aria;Roccanova;332500
+46495;Pioggia 1h;Roccanova;332500
+46496;Pioggia 3h;Roccanova;332500
+46497;Pioggia 6h;Roccanova;332500
+46498;Pioggia 12h;Roccanova;332500
+46499;Pioggia 24h;Roccanova;332500
+53005;Intensità Pioggia;Rotonda;699100
+53006;Pioggia Cumulata;Rotonda;699100
+53007;Temperatura Aria;Rotonda;699100
+53008;Umidità relativa;Rotonda;699100
+53517;Pioggia 1h;Rotonda;699100
+53518;Pioggia 3h;Rotonda;699100
+53519;Pioggia 6h;Rotonda;699100
+53520;Pioggia 12h;Rotonda;699100
+53521;Pioggia 24h;Rotonda;699100
+35683;Livello Idrometrico;S.Demetrio;481100
+39307;Incrementi di Pioggia;S.Fele;538100
+39308;Temperatura Aria;S.Fele;538100
+51028;Pioggia 1h;S.Fele;538100
+51029;Pioggia 3h;S.Fele;538100
+51030;Pioggia 6h;S.Fele;538100
+51031;Pioggia 12h;S.Fele;538100
+51032;Pioggia 24h;S.Fele;538100
+12715;Idrometro Bradano;S.Giuliano;179700
+21846;Pioggia Cumulata;S.Giuliano;179700
+46425;Pioggia 1h;S.Giuliano;179700
+46426;Pioggia 3h;S.Giuliano;179700
+46427;Pioggia 6h;S.Giuliano;179700
+46428;Pioggia 12h;S.Giuliano;179700
+46429;Pioggia 24h;S.Giuliano;179700
+29747;Pioggia Cumulata;S.Mauro Forte;417800
+29750;Temperatura Aria;S.Mauro Forte;417800
+29751;Radiazione Solare Diretta;S.Mauro Forte;417800
+29752;Umidità Relativa;S.Mauro Forte;417800
+29755;Radiazione Solare Riflessa;S.Mauro Forte;417800
+46505;Pioggia 1h;S.Mauro Forte;417800
+46506;Pioggia 3h;S.Mauro Forte;417800
+46507;Pioggia 6h;S.Mauro Forte;417800
+46508;Pioggia 12h;S.Mauro Forte;417800
+46509;Pioggia 24h;S.Mauro Forte;417800
+12700;Livello Neve;S.Nicola;83900
+12701;Temperatura Aria;S.Nicola;83900
+12702;Pioggia Cumulata;S.Nicola;83900
+15703;Pioggia 1h;S.Nicola;83900
+15704;Pioggia 3h;S.Nicola;83900
+15705;Pioggia 6h;S.Nicola;83900
+15706;Pioggia 12h;S.Nicola;83900
+15707;Pioggia 24h;S.Nicola;83900
+52997;Intensità Pioggia;Salandra;699000
+52998;Pioggia Cumulata;Salandra;699000
+52999;Temperatura Aria;Salandra;699000
+53000;Umidità relativa;Salandra;699000
+53497;Pioggia 1h;Salandra;699000
+53498;Pioggia 3h;Salandra;699000
+53499;Pioggia 6h;Salandra;699000
+53500;Pioggia 12h;Salandra;699000
+53501;Pioggia 24h;Salandra;699000
+15326;Livello Idrometrico;Sinni SS106;203900
+21847;Pioggia Cumulata;Sinni SS106;203900
+46435;Pioggia 1h;Sinni SS106;203900
+46436;Pioggia 3h;Sinni SS106;203900
+46437;Pioggia 6h;Sinni SS106;203900
+46438;Pioggia 12h;Sinni SS106;203900
+46439;Pioggia 24h;Sinni SS106;203900
+50086;Livello Idrometrico;Sinni a Valsinni;653000
+50087;Pioggia Cumulata;Sinni a Valsinni;653000
+50132;Intensità di Pioggia;Sinni a Valsinni;653000
+50218;Pioggia 1h;Sinni a Valsinni;653000
+50219;Pioggia 3h;Sinni a Valsinni;653000
+50220;Pioggia 6h;Sinni a Valsinni;653000
+50221;Pioggia 12h;Sinni a Valsinni;653000
+50222;Pioggia 24h;Sinni a Valsinni;653000
+15753;Pioggia 1h;Stigliano;54800
+15754;Pioggia 3h;Stigliano;54800
+15755;Pioggia 6h;Stigliano;54800
+15756;Pioggia 12h;Stigliano;54800
+15757;Pioggia 24h;Stigliano;54800
+53021;Intensità Pioggia;Stigliano;54800
+53022;Pioggia Cumulata;Stigliano;54800
+53023;Temperatura Aria;Stigliano;54800
+53024;Umidità relativa;Stigliano;54800
+53025;Livello Neve;Stigliano;54800
+17317;Pioggia Cumulata;Terra Montonata;233200
+17318;Livello Freatico;Terra Montonata;233200
+17319;Temperatura Aria;Terra Montonata;233200
+17320;Umidità Relativa;Terra Montonata;233200
+17321;Direzione Vento Vettoriale;Terra Montonata;233200
+17322;Velocità Vento Vettoriale;Terra Montonata;233200
+17323;Pressione Atmosferica;Terra Montonata;233200
+17324;Evaporazione;Terra Montonata;233200
+17325;Igrometro Suolo -30;Terra Montonata;233200
+17326;Igrometro Suolo -60;Terra Montonata;233200
+17327;Igrometro Suolo -90;Terra Montonata;233200
+17328;Tensiometro -30;Terra Montonata;233200
+17329;Tensiometro -60;Terra Montonata;233200
+17330;Tensiometro -90;Terra Montonata;233200
+26907;Velocità Vento Scalare;Terra Montonata;233200
+26909;Direzione Vento Scalare;Terra Montonata;233200
+26910;Velocità Vento Raffica;Terra Montonata;233200
+26911;Direzione Vento Raffica;Terra Montonata;233200
+46450;Pioggia 1h;Terra Montonata;233200
+46451;Pioggia 3h;Terra Montonata;233200
+46452;Pioggia 6h;Terra Montonata;233200
+46453;Pioggia 12h;Terra Montonata;233200
+46454;Pioggia 24h;Terra Montonata;233200
+57569;Igro suolo -30 Minerale;Terra Montonata;233200
+57570;Igro suolo -60 Minerale;Terra Montonata;233200
+57571;Igro suolo -90 Minerale;Terra Montonata;233200
+57572;Igro suolo -30 Organico;Terra Montonata;233200
+57573;Igro suolo -60 Organico;Terra Montonata;233200
+57574;Igro suolo -90 Organico;Terra Montonata;233200
+21477;Pioggia Cumulata;Terranova di Pollino;276500
+46470;Pioggia 1h;Terranova di Pollino;276500
+46471;Pioggia 3h;Terranova di Pollino;276500
+46472;Pioggia 6h;Terranova di Pollino;276500
+46473;Pioggia 12h;Terranova di Pollino;276500
+46474;Pioggia 24h;Terranova di Pollino;276500
+53030;Livello Neve;Terranova di Pollino;276500
+53333;Temperatura Aria;Terranova di Pollino;276500
+30352;Pioggia Cumulata;Tito;420000
+30354;Temperatura Aria;Tito;420000
+30355;Umidità Relativa;Tito;420000
+46545;Pioggia 1h;Tito;420000
+46546;Pioggia 3h;Tito;420000
+46547;Pioggia 6h;Tito;420000
+46548;Pioggia 12h;Tito;420000
+46549;Pioggia 24h;Tito;420000
+12708;Temperatura Aria;Torre Accio;177000
+12709;Pioggia Cumulata;Torre Accio;177000
+12710;Livello Idrometrico;Torre Accio;177000
+46415;Pioggia 1h;Torre Accio;177000
+46416;Pioggia 3h;Torre Accio;177000
+46417;Pioggia 6h;Torre Accio;177000
+46418;Pioggia 12h;Torre Accio;177000
+46419;Pioggia 24h;Torre Accio;177000
+39273;Livello Idrometrico;Torrente Atella;534500
+39346;Livello Idrometrico;Torrente Venosa;539600
+21830;Livello Idrometrico;Tortora;298400
+22330;Pioggia Cumulata;Tortora;298400
+27100;Radiazione UV-E;Tortora;298400
+34566;Pioggia 20 minuti;Tortora;298400
+34569;Pioggia 40 minuti;Tortora;298400
+34571;Pioggia 1h;Tortora;298400
+34573;Pioggia 3h;Tortora;298400
+34575;Pioggia 6h;Tortora;298400
+34577;Pioggia 12h;Tortora;298400
+34579;Pioggia 24h;Tortora;298400
+12678;Pioggia Cumulata;Tramutola;54700
+12679;Temperatura Aria;Tramutola;54700
+15783;Pioggia 1h;Tramutola;54700
+15784;Pioggia 3h;Tramutola;54700
+15785;Pioggia 6h;Tramutola;54700
+15786;Pioggia 12h;Tramutola;54700
+15787;Pioggia 24h;Tramutola;54700
+52988;Intensità Pioggia;Tricarico;698900
+52989;Pioggia Cumulata;Tricarico;698900
+52990;Temperatura Aria;Tricarico;698900
+52991;Umidità relativa;Tricarico;698900
+53507;Pioggia 1h;Tricarico;698900
+53508;Pioggia 3h;Tricarico;698900
+53509;Pioggia 6h;Tricarico;698900
+53510;Pioggia 12h;Tricarico;698900
+53511;Pioggia 24h;Tricarico;698900
+21474;Pioggia Cumulata;Tursi;276900
+46475;Pioggia 1h;Tursi;276900
+46476;Pioggia 3h;Tursi;276900
+46477;Pioggia 6h;Tursi;276900
+46478;Pioggia 12h;Tursi;276900
+46479;Pioggia 24h;Tursi;276900
+53013;Intensità Pioggia;Vaglio di Basilicata;699300
+53014;Pioggia Cumulata;Vaglio di Basilicata;699300
+53015;Temperatura Aria;Vaglio di Basilicata;699300
+53016;Umidità relativa;Vaglio di Basilicata;699300
+53487;Pioggia 1h;Vaglio di Basilicata;699300
+53488;Pioggia 3h;Vaglio di Basilicata;699300
+53489;Pioggia 6h;Vaglio di Basilicata;699300
+53490;Pioggia 12h;Vaglio di Basilicata;699300
+53491;Pioggia 24h;Vaglio di Basilicata;699300
+59613;Direzione Vento Scalare;Vaglio di Basilicata;699300
+59614;Direzione Vento Vettoriale;Vaglio di Basilicata;699300
+59615;Direzione Vento Raffica;Vaglio di Basilicata;699300
+59616;Velocità Vento Scalare;Vaglio di Basilicata;699300
+59617;Velocità Vento Vettoriale;Vaglio di Basilicata;699300
+59618;Velocità Vento Raffica;Vaglio di Basilicata;699300
+30356;Pioggia Cumulata;Venosa;418200
+30358;Temperatura Aria;Venosa;418200
+30359;Umidità Relativa;Venosa;418200
+46520;Pioggia 1h;Venosa;418200
+46521;Pioggia 3h;Venosa;418200
+46522;Pioggia 6h;Venosa;418200
+46523;Pioggia 12h;Venosa;418200
+46524;Pioggia 24h;Venosa;418200
+12307;Pioggia Cumulata;"Vietri SP529400;""Venosa ETG";182800
+51048;Pioggia 1h;"Vietri SP529400;""Venosa ETG";182800
+51049;Pioggia 3h;"Vietri SP529400;""Venosa ETG";182800
+51050;Pioggia 6h;"Vietri SP529400;""Venosa ETG";182800
+51051;Pioggia 12h;"Vietri SP529400;""Venosa ETG";182800
+51052;Pioggia 24h;"Vietri SP529400;""Venosa ETG";182800
