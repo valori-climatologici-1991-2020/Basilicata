@@ -13,13 +13,14 @@ Dal 1988 gli Annali sono informato pdf (non semplici scansioni)
 
 ## Dati on-line
 
-Stringa
-
-http://www.centrofunzionalebasilicata.it/it/scaricaDati.php?action=download&id=179900&sensNum=12719&exmethod=ElabDailyMinimum_Date&startDate=2020-11-23&interval=30
-
-Si veda il sito web
+I dati storici sono disponibili alla pagina web:
 
 http://www.centrofunzionalebasilicata.it/it/scaricaDati.php
+
+Ogni stazione e' identificata da un codice stazione a cui corrisponde un codice sensore (ad esempio: codice sensore per `Pioggia Cumulata`,
+per `Temperatura Aria`, etc.). I codici sensori non sono univoci ma variano con la stazione.
+
+Una volta scelto il codice sensore si deve poi scegliere che tipo di elaborazione dati si vuole (ad esempio: temperature minime giornaliere,etc).
 
 ## Descrizione rete
 
