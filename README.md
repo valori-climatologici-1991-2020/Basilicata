@@ -2,6 +2,10 @@
 
 Dati per valori climatologici
 
+## Dati ricevuti dal Centro Funzionale
+
+Si tratta della versione in formato testo degli Annali. I dati coprono il periodo 1921-2007.
+
 ## HisCentral
 
 I dati partono dal 2001 e arrivono al 2010.
