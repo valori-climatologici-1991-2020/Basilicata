@@ -1,0 +1,5 @@
+#gennaio 2021
+Questi sono i dati ricevuti dal Centro Funzionale. Inizialmente erano stati rielaborati per produrre file in formato HisCentral. Il programma per la loro elaborazione e' stato leggermente modificato per produrre dati in formato simile a quello usato per i controlli di qualita'.
+
+Inoltre, i file prodotti prendono in esame tutte le stazioni fornite dal Centro Funzionale
+non solo le stazioni con serie lunghe adatte al calcolo dei trend di lungo periodo.
